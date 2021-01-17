@@ -1,4 +1,4 @@
-This is the code for paper "Maximizing Approximatelyk-Submodular Functions" (by Leqian Zheng, Hau Chan, Grigorios Loukides, Minming Li, SDM 2021).
+This is the code for paper "Maximizing Approximately k-Submodular Functions" (by Leqian Zheng, Hau Chan, Grigorios Loukides, Minming Li, SDM 2021).
 
 There are two directories, each correspoding to one of the problems in our experimental evaluation section.
 
